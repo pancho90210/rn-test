@@ -18,7 +18,7 @@ request.onreadystatechange = e => {
   }
 };
 
-request.open('GET', 'https://lk.guideh.com/lc/tests/checknumbers.php');
+request.open('GET', 'URL');
 request.send();
 
 
